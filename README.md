@@ -1,1 +1,4 @@
 # Interpolation
+
+
+Our study has successfully achieved its objectives by employing different interpolation techniques such as morphological and linear interpolation techniques to generate new slices of medical images. These methods were rigorously evaluated using established metrics such as MSE, RMSE, PSNR, and SSIM, providing a comprehensive assessment of their effectiveness and performance. The application of these interpolation techniques, coupled with the evaluation metrics utilized, has not only advanced our understanding of medical image generation but also provided valuable insights into the quality and fidelity of the generated images. By leveraging these quantitative measures, we have gained a deeper understanding of the strengths and limitations of each interpolation method, enabling informed decisionmaking in their application.
